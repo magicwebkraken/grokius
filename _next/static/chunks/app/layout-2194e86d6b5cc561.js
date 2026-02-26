@@ -557,7 +557,7 @@
           } /*,{name:"meme generator",url:"http://memes.auraoneth.lol/"}*/,
           {
             name: "chart",
-            url: "https://www.dextools.io/app/en/token/0xComingSoon",
+            url: "https://www.dextools.io/app/en/token/0xEE61159E8A72A08371c52D62c19Efd0C7914f917",
           } /*,{name:"blink",url:"https://actions.dialect.to/?action=solana-action:https://dick-buy.zeropointdigit.workers.dev/api/jupiter/swap/SOL-dick"}*/,
         ];
         return (0, a.jsx)(a.Fragment, {
