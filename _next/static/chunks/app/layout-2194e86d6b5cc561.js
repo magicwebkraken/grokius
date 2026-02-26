@@ -550,7 +550,7 @@
           { publicKey: h } = (0, o.O)();
         console.log("connection: ", u), console.log("publicKey: ", h);
         let f = [
-          { name: "x", url: "https://x.com/GorkiusETH" },
+          { name: "x", url: "https://x.com/G0rkius_erc20" },
           {
             name: "tg",
             url: "https://t.me/GorkiusETH",
